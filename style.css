@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    width: 100%;
+    height: auto;
+    background-color: tomato;
+}
+li{
+    position: relative;
+    display: inline;
+    text-decoration: none;
+    color: white;
+}
+.nav{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(39, 34, 34);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+ .list{
+    text-decoration: none;
+    color: white;
+}
+.search{
+    display: inline;
+    position: relative;
+    margin-inline-end: ;
+}
+i .fa fa-search{
+    color: green;
+    width: fit-content;
+    background-color: green;
+}
